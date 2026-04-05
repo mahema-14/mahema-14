@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey 👋 I'm Mahema</h1>
-<p align="center">📍 Bengaluru, India &nbsp;·&nbsp; Open to collaborate &nbsp;·&nbsp; Always learning</p>
+<p align="center">&nbsp; Open to collaborate &nbsp;·&nbsp; Always learning</p>
 
 ---
 
