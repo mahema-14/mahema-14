@@ -16,14 +16,6 @@
 
 ---
 
-### 🐍 My Contributions
-
-> Setup this once — GitHub Actions auto-generates it!
-
-<!-- Add this to your repo's GitHub Actions (.github/workflows/snake.yml) -->
-![snake gif](https://github.com/mahema-14/mahema-14/blob/output/github-contribution-grid-snake.gif)
-
----
 
 ### 💬 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
